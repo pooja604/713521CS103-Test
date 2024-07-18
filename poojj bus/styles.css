@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    color: #ff0000 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    color: #ff0000 !important;
+}
+
+.card-header, .card-footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.container mt-5{
+    align-items: center;
+}
